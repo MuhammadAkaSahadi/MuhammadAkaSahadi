@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at Faculty of Computer Science, University of Jember. I am passionate about pursuing career in software development, especially in website development. I mainly utilize frameworks such as Laravel and currently studying React/MERN tech stack for web development. I am also actively involved in student association, consistently striving to achieve academic excellence and improve myself.
+I am a student at Faculty of Computer Science, University of Jember. I am passionate about pursuing career in software development, especially in website development. I mainly utilize frameworks such as Laravel and currently studying React/MERN and Next.js tech stack for web development. I am also actively involved in student association, consistently striving to achieve academic excellence and improve myself.
 
 
 # 🌐 Socials:
